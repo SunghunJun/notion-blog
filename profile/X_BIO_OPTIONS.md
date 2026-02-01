@@ -8,7 +8,7 @@
 ## Option 1: AI-Focused Developer
 ```
 Building with AI | Next.js & TypeScript dev | Built a blog in 3 hrs with Claude Code |
-Korea → Germany → Spain 🌍 | Sharing what I learn | notion-blog.vercel.app
+Korea → Germany → Spain 🌍 | Sharing what I learn | scbalab.com
 ```
 **Length**: 158 characters ✅
 **Keywords**: AI, Next.js, TypeScript, international
@@ -31,7 +31,7 @@ Building in public | Notion blog creator | Sharing the journey
 ```
 Developer • AI enthusiast • Building in public
 Korea → Germany → Spain
-Shipping: notion-blog.vercel.app
+Shipping: scbalab.com
 ```
 **Length**: 113 characters ✅
 **Keywords**: Developer, AI, building in public
@@ -123,7 +123,7 @@ Building in public | Korea → Germany → Spain | Sharing code & insights
 ### 🥇 Best Overall (Option 1):
 ```
 Building with AI | Next.js & TypeScript dev | Built a blog in 3 hrs with Claude Code |
-Korea → Germany → Spain 🌍 | Sharing what I learn | notion-blog.vercel.app
+Korea → Germany → Spain 🌍 | Sharing what I learn | scbalab.com
 ```
 **Why**:
 - Shows technical skills
@@ -195,7 +195,7 @@ Every good X bio should have:
 
 ### Add Links:
 X allows **1 clickable link** in bio. Best options:
-- Your blog: `notion-blog.vercel.app`
+- Your blog: `scbalab.com`
 - GitHub: `github.com/scba-lab`
 - LinkTree with both
 
@@ -228,7 +228,7 @@ Don't forget these X profile sections:
 ### Website Field:
 **Best option:**
 ```
-https://notion-blog-cosqyu0km-sunghun-juns-projects.vercel.app
+https://scbalab.com
 ```
 
 Or if you have a custom domain later:
@@ -281,12 +281,12 @@ Track which gets more:
 **Bio**:
 ```
 Building with AI | Next.js & TypeScript dev | Built a blog in 3 hrs with Claude Code |
-Korea → Germany → Spain 🌍 | Sharing what I learn | notion-blog.vercel.app
+Korea → Germany → Spain 🌍 | Sharing what I learn | scbalab.com
 ```
 
 **Location**: `🌍 Korea → Germany → Spain`
 
-**Website**: `https://notion-blog-cosqyu0km-sunghun-juns-projects.vercel.app`
+**Website**: `https://scbalab.com`
 
 **Header Image**: Your blog screenshot or code-themed banner
 

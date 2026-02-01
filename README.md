@@ -4,7 +4,7 @@ A Next.js 14 blog powered by Notion as a headless CMS.
 
 ## 🚀 Live Demo
 
-**Production Site**: https://notion-blog-cosqyu0km-sunghun-juns-projects.vercel.app
+**Production Site**: https://scbalab.com
 
 **GitHub Repository**: https://github.com/scba-lab/notion-blog
 

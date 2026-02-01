@@ -44,12 +44,12 @@ Seoul • Berlin • Madrid
 
 ### **Website**
 ```
-https://notion-blog-cosqyu0km-sunghun-juns-projects.vercel.app
+https://scbalab.com
 ```
 
 **Short version (for tweets):**
 ```
-notion-blog.vercel.app
+scbalab.com
 ```
 
 ---
@@ -86,7 +86,7 @@ Shipped blog in 3hrs | 🇰🇷🇩🇪🇪🇸 | Bridging operations & code
 
 ### Step 3: Update Website
 ```
-https://notion-blog-cosqyu0km-sunghun-juns-projects.vercel.app
+https://scbalab.com
 ```
 
 ### Step 4: Save Changes
@@ -151,7 +151,7 @@ Since you chose balanced, here's what to post:
 
 ### Blog Post URL (when published):
 ```
-https://notion-blog-cosqyu0km-sunghun-juns-projects.vercel.app/posts/building-blog-with-ai-one-day
+https://scbalab.com/posts/building-blog-with-ai-one-day
 ```
 
 ### GitHub:
@@ -160,7 +160,7 @@ https://github.com/scba-lab/notion-blog
 ```
 
 ### Short versions for Twitter:
-- Blog: `notion-blog.vercel.app`
+- Blog: `scbalab.com`
 - GitHub: `github.com/scba-lab/notion-blog`
 
 ---
@@ -275,7 +275,7 @@ Next.js | 🇰🇷🇩🇪🇪🇸 | 100+ readers | Building in public
 ### After 1000 Followers:
 ```
 Supply Chain Pro building AI tools | Taught 1000+ to automate operations |
-Next.js • TypeScript | 🇰🇷🇩🇪🇪🇸 | notion-blog.vercel.app
+Next.js • TypeScript | 🇰🇷🇩🇪🇪🇸 | scbalab.com
 ```
 
 ---

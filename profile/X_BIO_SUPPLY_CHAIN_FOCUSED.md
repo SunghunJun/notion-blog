@@ -27,7 +27,7 @@ Shipped blog in 3hrs | 🇰🇷🇩🇪🇪🇸 | Bridging operations & code
 ### Option 2: Dual Expertise
 ```
 Supply Chain Professional developing AI solutions | Next.js • TypeScript • Notion |
-Korea → Germany → Spain | Building in public | notion-blog.vercel.app
+Korea → Germany → Spain | Building in public | scbalab.com
 ```
 **Length**: 158 characters ✅
 
@@ -61,7 +61,7 @@ Next.js dev | 🇰🇷🇩🇪🇪🇸 | Sharing operations + tech insights
 ### Option 4: Experience-Led
 ```
 Supply Chain Professional (🇰🇷🇩🇪🇪🇸) | Building AI-powered solutions |
-Next.js & TypeScript | Shipped: notion-blog.vercel.app | Operations meets code
+Next.js & TypeScript | Shipped: scbalab.com | Operations meets code
 ```
 **Length**: 159 characters ✅
 
@@ -94,7 +94,7 @@ Korea → Germany → Spain | Bridging logistics & code | Building in public
 ### Option 7: Capability-Focused
 ```
 Supply Chain Professional | Developing AI solutions with Next.js/TypeScript |
-Operations expertise + coding skills | 🇰🇷🇩🇪🇪🇸 | notion-blog.vercel.app
+Operations expertise + coding skills | 🇰🇷🇩🇪🇪🇸 | scbalab.com
 ```
 **Length**: 157 characters ✅
 
@@ -127,7 +127,7 @@ Built & deployed in 3hrs | 🇰🇷🇩🇪🇪🇸 | Practical tech for real pr
 ### Option 10: Industry Insider
 ```
 Supply Chain by day, AI Developer by night | Next.js • TypeScript • Claude Code |
-🇰🇷🇩🇪🇪🇸 | Building solutions | notion-blog.vercel.app
+🇰🇷🇩🇪🇪🇸 | Building solutions | scbalab.com
 ```
 **Length**: 148 characters ✅
 
@@ -199,7 +199,7 @@ Built blog in 3hrs with Claude Code | 🇰🇷🇩🇪🇪🇸 | Building in pub
 ### 💼 If You Want Professional Focus (Option 7):
 ```
 Supply Chain Professional | Developing AI solutions with Next.js/TypeScript |
-Operations expertise + coding skills | 🇰🇷🇩🇪🇪🇸 | notion-blog.vercel.app
+Operations expertise + coding skills | 🇰🇷🇩🇪🇪🇸 | scbalab.com
 ```
 
 **Why choose this:**
@@ -229,7 +229,7 @@ Shipped blog in 3hrs | 🇰🇷🇩🇪🇪🇸 | Bridging operations & code
 
 ### Website:
 ```
-https://notion-blog-cosqyu0km-sunghun-juns-projects.vercel.app
+https://scbalab.com
 ```
 
 ### Pinned Tweet (After posting your thread):

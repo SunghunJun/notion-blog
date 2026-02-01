@@ -300,7 +300,7 @@ This level of transparency would have seemed risky five years ago. Now, it's how
 
 ## The Results: What We Shipped
 
-**Live Site**: [notion-blog-cosqyu0km-sunghun-juns-projects.vercel.app](https://notion-blog-cosqyu0km-sunghun-juns-projects.vercel.app)
+**Live Site**: [scbalab.com](https://scbalab.com)
 
 **GitHub**: [github.com/scba-lab/notion-blog](https://github.com/scba-lab/notion-blog)
 

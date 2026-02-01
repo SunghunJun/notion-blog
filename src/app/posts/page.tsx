@@ -4,7 +4,7 @@ import Link from "next/link";
 export const revalidate = 60;
 
 export const metadata = {
-  title: "All Posts | Sunghun's Blog",
+  title: "All Posts | SCBA.Lab",
   description: "Browse all articles and posts",
 };
 

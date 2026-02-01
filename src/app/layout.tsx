@@ -4,16 +4,16 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
   title: {
-    default: "Sunghun's Blog",
-    template: "%s | Sunghun's Blog",
+    default: "SCBA.Lab",
+    template: "%s | SCBA.Lab",
   },
   description: "Insights on tech careers, supply chain, and life across cultures",
   openGraph: {
-    title: "Sunghun's Blog",
+    title: "SCBA.Lab",
     description: "Insights on tech careers, supply chain, and life across cultures",
     type: "website",
     url: '/',
-    siteName: "Sunghun's Blog",
+    siteName: "SCBA.Lab",
   },
   twitter: {
     card: 'summary_large_image',
@@ -34,7 +34,7 @@ export default function RootLayout({
         <header className="site-header">
           <div className="container">
             <a href="/" className="site-logo">
-              Sunghun
+              SCBA.Lab
             </a>
             <nav className="site-nav">
               <a href="/">Home</a>
@@ -50,7 +50,7 @@ export default function RootLayout({
         
         <footer className="site-footer">
           <div className="container">
-            <p>© {new Date().getFullYear()} Sunghun. Built with Next.js & Notion.</p>
+            <p>© {new Date().getFullYear()} SCBA.Lab. Built with Next.js & Notion.</p>
           </div>
         </footer>
       </body>

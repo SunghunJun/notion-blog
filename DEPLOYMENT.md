@@ -36,7 +36,7 @@ NOTION_DATABASE_ID=your_database_id_here
 ```
 
 ```
-NEXT_PUBLIC_SITE_NAME=Sunghun's Blog
+NEXT_PUBLIC_SITE_NAME=SCBA.Lab
 ```
 
 **Important**: Add each variable individually.

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -47,7 +48,9 @@ export default function RootLayout({
         </header>
         
         <main>{children}</main>
-        
+
+        <Analytics />
+
         <footer className="site-footer">
           <div className="container">
             <p>© {new Date().getFullYear()} SCBA.Lab. Built with Next.js & Notion.</p>

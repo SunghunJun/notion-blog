@@ -1,4 +1,5 @@
 import { getPostBySlug, getAllPostSlugs } from "@/lib/notion";
+import { calculateReadingTime } from "@/lib/reading-time";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { Metadata } from "next";
@@ -79,6 +80,8 @@ export default async function PostPage({ params }: Props) {
     notFound();
   }
 
+  const readingTime = calculateReadingTime(post.content || "");
+
   return (
     <article className="container">
       <div className="content-container">
@@ -89,6 +92,8 @@ export default async function PostPage({ params }: Props) {
         <header className="post-header" style={{ textAlign: "left", padding: "0 0 2rem 0" }}>
           <div className="post-meta" style={{ justifyContent: "flex-start" }}>
             <time className="post-date">{formatDate(post.date)}</time>
+            <span>·</span>
+            <span className="reading-time">{readingTime.text}</span>
             {post.tags.length > 0 && (
               <>
                 <span>·</span>

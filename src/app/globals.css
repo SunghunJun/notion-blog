@@ -184,6 +184,10 @@ a:hover {
   font-weight: 400;
 }
 
+.reading-time {
+  font-weight: 400;
+}
+
 .post-tags {
   display: flex;
   gap: var(--space-xs);

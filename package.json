@@ -7,11 +7,14 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate-social": "ts-node --project tsconfig.scripts.json src/scripts/generate-social.ts"
+    "create-blog-post": "ts-node --project tsconfig.scripts.json src/scripts/create-blog-post.ts",
+    "generate-social": "ts-node --project tsconfig.scripts.json src/scripts/generate-social.ts",
+    "publish-to-notion": "ts-node --project tsconfig.scripts.json src/scripts/publish-to-notion.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.72.1",
     "@notionhq/client": "^2.2.14",
+    "@vercel/analytics": "^1.6.1",
     "dotenv": "^17.2.3",
     "highlight.js": "^11.11.1",
     "next": "^14.1.0",
